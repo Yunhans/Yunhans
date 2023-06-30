@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning HTML, CSS, Javascript and PHP...
+- 🌱 I’m currently learning Swift, I hope I can make an ios app this summer vacation -- 2023/6/30
 
 <!--
 **Yunhans/Yunhans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
